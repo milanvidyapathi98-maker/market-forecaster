@@ -6,7 +6,7 @@ and fundamental data.
 
 **Live app:** *https://market-forecaster-iepugu9hkjtg6wpuvzrx7f.streamlit.app/*
 
-> Learning and portfolio project. Not investment advice.
+> AI-based learning and portfolio project. Not investment advice.
 
 \---
 
